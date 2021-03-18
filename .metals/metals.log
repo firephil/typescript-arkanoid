@@ -1,0 +1,10 @@
+[0m2021.03.18 22:37:12 INFO  Started: Metals version 0.10.0 in workspace 'C:\DEV\typescript-arkanoid' for client vscode 1.54.3.[0m
+[0m2021.03.18 22:37:18 INFO  time: initialize in 5.23s[0m
+[0m2021.03.18 22:37:20 WARN  Build server is not auto-connectable.[0m
+[0m2021.03.18 22:37:20 WARN  no build tool detected in workspace 'C:\DEV\typescript-arkanoid'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Ìבס 18, 2021 10:49:27 Ì.Ì. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Ìבס 18, 2021 10:50:51 Ì.Ì. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Ìבס 18, 2021 10:50:51 Ì.Ì. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
